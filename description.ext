@@ -1,0 +1,7 @@
+class Params
+{
+	#include "\a3\functions_f\Params\paramDaytimeHour.hpp"
+	#define DAYTIMEHOUR_DEFAULT 9
+	#include "\a3\functions_f\Params\paramWeather.hpp"
+	#define WEATHER_DEFAULT 10
+};
